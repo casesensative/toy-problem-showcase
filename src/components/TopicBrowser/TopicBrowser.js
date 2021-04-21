@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import EvenAndOdd from './components/Topics/EvenAndOdd';
-import FilterObject from './components/Topics/FilterObject';
-import FilterString from './components/Topics/FilterString';
-import Palindrome from './components/Topics/Palindrome';
-import Sum from './components/Topics/Sum';
+import EvenAndOdd from '../Topics/EvenAndOdd.js';
+import FilterObject from '../Topics/FilterObject.js';
+import FilterString from '../Topics/FilterString.js';
+import Palindrome from '../Topics/Palindrome.js';
+import Sum from '../Topics/Sum.js';
 
 
 class TopicBrowser extends Component {
